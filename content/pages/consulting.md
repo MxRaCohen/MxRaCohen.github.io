@@ -7,7 +7,7 @@ Slug: consulting
 Subtitle:
 Summary: Ra can be hired as a freelance data scientist or project manager.
 Keywords: 
-Author: Ra Cohen
+Authors: Ra Cohen
 ---
 
 Consulting, Freelance, and more!

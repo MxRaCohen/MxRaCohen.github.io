@@ -1,5 +1,5 @@
 ---
-Title: More About  Me
+Title: More About Me
 Tags: yours-truly
 Category: Personal
 Date: 2023-03-26 13:15

@@ -1,10 +1,10 @@
 ---
-author: Ra Cohen
-title: What's Up
-layout: page
-date: 2023-03-26 13:15
-status: hidden
-slug: landing-page-about-hidden
+Author: Ra Cohen
+Title: What's Up
+Layout: page
+Date: 2023-03-26 13:15
+Status: hidden
+Slug: landing-page-about-hidden
 ---
 
 Ra is a stylish, responsive, and minimal ~~Pelican
