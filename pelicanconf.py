@@ -6,6 +6,7 @@ SITENAME = 'Mx. Ra Cohen'
 SITEURL = ''
 
 PATH = 'content'
+OUTPUT_PATH = 'docs/'
 
 TIMEZONE = 'EST'
 
