@@ -1,0 +1,4 @@
+Sitemap: https://MxRaCohen.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: MxRaCohen.github.io
